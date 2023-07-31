@@ -1,0 +1,14 @@
+{
+    "setpoints": [
+        {
+            "siteId": "ce40d77e-7427-4a7b-bc3f-0d54712931aa",
+            "assetId": "688d3be5-eef0-4d05-a181-376e2ecac9b6",
+            "type": "curtailmentKw",
+            "start": "2023-07-31T20:45:39.717305Z",
+            "value": 2
+        }
+    ],
+    "totalCount": 1,
+    "limit": 1,
+    "offset": 0
+}
